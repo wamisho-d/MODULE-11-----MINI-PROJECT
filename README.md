@@ -1,18 +1,18 @@
 E-commerce API
 
 E-commerce API Features:
- - Customer and CustomerAccount Management:
+  - Customer and CustomerAccount Management:
     -Create Customer Form
     -Read Customer Details
     -Update Customer Form
     -Delete Customer Information
- - Product Catalog:
-   -List Products
-   -Create Product Form
-   -Read Product Details
-   -Update Product Form
-   -Delete Product Information
-   -Product Confirmation Module
+  - Product Catalog:
+    -List Products
+    -Create Product Form
+    -Read Product Details
+    -Update Product Form
+    -Delete Product Information
+    -Product Confirmation Module
  
 - Order Processing:
   - Place Order Form
@@ -36,6 +36,6 @@ If you encounter any issues, please open a problem on the project's GitHub page.
 
 Author info
 
-Wamisho Debero - [wamisho-d/E-commerce API/]https://github.com/wamisho-d/MODULE-11-MINI-PROJECT
+Wamisho Debero - [wamisho-d/E-commerce API/]https://github.com/wamisho-d/MODULE-11-----MINI-PROJECT/edit/main/README.md
 
  
