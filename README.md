@@ -2,10 +2,10 @@ E-commerce API
 
 E-commerce API Features:
  - Customer and CustomerAccount Management:
-   -Create Customer Form
-   -Read Customer Details
-   -Update Customer Form
-   -Delete Customer Information
+    -Create Customer Form
+    -Read Customer Details
+    -Update Customer Form
+    -Delete Customer Information
  - Product Catalog:
    -List Products
    -Create Product Form
